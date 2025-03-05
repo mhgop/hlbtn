@@ -1,0 +1,4 @@
+ ('orange','^')|  ('gray','P') |  ('red','^')  | ('purple','o')
+ ('purple','o')|  ('blue','s') | ('black','D') |  ('blue','P') 
+  ('gray','X') |  ('red','P')  | ('purple','o')| ('orange','X')
+ ('green','^') | ('black','D') |  ('blue','*') |  ('gray','s') 

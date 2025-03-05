@@ -1,0 +1,2 @@
+ ('orange','P')|  ('red','s')  
+ ('black','^') |  ('gray','X') 

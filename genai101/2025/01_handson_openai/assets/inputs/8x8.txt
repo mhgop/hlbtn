@@ -1,0 +1,8 @@
+  ('blue','D') | ('black','s') | ('purple','*')|  ('red','X')  | ('orange','o')|  ('blue','*') | ('purple','D')|  ('blue','^') 
+ ('orange','*')| ('green','P') | ('orange','^')| ('black','D') |  ('gray','P') |  ('red','^')  | ('orange','o')|  ('gray','*') 
+ ('purple','s')| ('black','X') | ('purple','o')|  ('blue','*') | ('green','X') | ('purple','s')| ('green','P') |  ('red','X')  
+  ('gray','D') | ('orange','^')|  ('red','D')  |  ('gray','P') |  ('red','D')  | ('orange','*')|  ('gray','D') | ('orange','*')
+ ('green','X') |  ('blue','s') | ('black','o') | ('green','*') |  ('blue','X') | ('black','P') | ('purple','s')|  ('red','P')  
+  ('red','P')  | ('purple','^')| ('orange','D')| ('purple','P')|  ('red','D')  | ('green','^') | ('orange','D')|  ('gray','*') 
+ ('green','D') | ('black','o') |  ('red','*')  |  ('gray','^') | ('black','s') |  ('gray','X') | ('purple','o')|  ('red','X')  
+  ('gray','P') | ('orange','s')| ('purple','X')| ('green','P') |  ('blue','*') | ('orange','P')| ('black','D') |  ('blue','*') 

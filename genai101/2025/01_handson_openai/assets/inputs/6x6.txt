@@ -1,0 +1,6 @@
+ ('green','^') | ('purple','*')| ('orange','s')| ('black','*') | ('purple','^')| ('green','o') 
+  ('gray','o') |  ('red','P')  | ('green','^') |  ('blue','X') | ('orange','P')|  ('blue','X') 
+ ('orange','*')|  ('blue','X') | ('black','o') |  ('gray','s') | ('black','o') |  ('gray','*') 
+ ('black','s') |  ('red','D')  | ('green','^') |  ('blue','P') | ('green','D') | ('purple','^')
+  ('blue','X') | ('purple','o')|  ('gray','*') |  ('red','s')  |  ('gray','*') |  ('red','X')  
+ ('orange','s')| ('black','D') |  ('blue','X') | ('purple','^')| ('green','P') |  ('blue','D') 
