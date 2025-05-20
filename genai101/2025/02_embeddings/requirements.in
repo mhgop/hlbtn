@@ -1,0 +1,13 @@
+python-dotenv
+openai
+numpy
+matplotlib
+scipy
+scikit-learn
+umap-learn
+pandas
+tiktoken
+wikipedia-api
+markdownify
+rank-bm25
+langchain-text-splitters
