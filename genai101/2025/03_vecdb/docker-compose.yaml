@@ -1,0 +1,26 @@
+name: "holberton_genai"
+
+services:
+  # --- --- --- QDRANT --- --- ---
+  qdrant:
+    image: qdrant/qdrant:latest
+    restart: no
+    ports:
+      - 6333:6333
+    configs:
+      - source: qdrant_config
+        target: /qdrant/config/production.yaml
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+
+volumes:
+  # --- --- --- QDRANT --- --- ---
+  qdrant_data:
+
+
+configs:
+  # --- --- --- QDRANT --- --- ---
+  qdrant_config:
+    content: |
+      log_level: DEBUG
